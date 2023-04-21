@@ -17,8 +17,9 @@ function App() {
         <SideBar setCollapsed={setCollapsed} collapsed={collapsed}/>
         <div className='page'>
           <Routes>
-            <Route path="/" element={<Navigate to='/dashboard' />} />
-            <Route path="/dashboard" element={<Dashboard />} />
+            <Route path="*"  element={<Dashboard />} />
+            {/* <Route path="/" element={<Navigate to='/dashboard' />} />
+            <Route path="/dashboard" element={<Dashboard />} /> */}
           </Routes>
         </div>
       </div>

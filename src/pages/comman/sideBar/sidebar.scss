@@ -50,7 +50,7 @@
 .sidebar[data-status="false"]{
    min-width: 0;
    width: 0;
-   left: -100px;
+   left: -200px;
 }
 
 .sidebar[data-status="true"]+.page {
@@ -71,7 +71,7 @@
         min-width: 0px;
         max-width: 0px; 
         width: 0;
-        left: -100px;
+        left: -200px;
         .sidebar[data-status="true"]{
             min-width: 155px;
             width: 155px;
@@ -81,7 +81,7 @@
         .sidebar[data-status="false"]{
            min-width: 0;
            width: 0;
-           left: -100px;
+           left: -200px;
         }
     }
 }
@@ -90,7 +90,7 @@
         min-width: 0px;
         max-width: 0px; 
         width: 0;
-        left: -100px;
+        left: -200px;
         position: absolute;
         z-index: 2;
         height: 100%;
@@ -102,7 +102,7 @@
         &[data-status="false"]{
            min-width: 0;
            width: 0;
-           left: -100px;
+           left: -200px;
         }
         .menu{
             .menu-title-wrapper{
@@ -133,7 +133,7 @@
         &[data-status="false"]{
            min-width: 0;
            width: 0;
-           left: -100px;
+           left: -200px;
         }
         .menu{
             .menu-title-wrapper{
@@ -164,7 +164,7 @@
         &[data-status="false"]{
            min-width: 0;
            width: 0;
-           left: -100px;
+           left: -200px;
         }
         .menu{
             .menu-title-wrapper{

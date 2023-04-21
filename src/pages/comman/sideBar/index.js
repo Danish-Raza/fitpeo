@@ -11,25 +11,25 @@ function SideBar(props) {
             display:"Dashboard",
             key:"dashboard",
             icon:"home",
-            link:"/dashboard"
+            link:"/"
         },
         {
             display:"Apps",
             key:"apps",
             icon:"info",
-            link:"/apps"
+            link:"/"
         },
         {
             display:"Charts",
             key:"charts",
             icon:"line-chart",
-            link:"/charts"
+            link:"/"
         },
         {
             display:"Plugins",
             key:"plugins",
             icon:"heart",
-            link:"/plugins"
+            link:"/"
         }
     ]
     return (
