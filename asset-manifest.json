@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fitpeo/static/css/main.e0593d09.css",
-    "main.js": "/fitpeo/static/js/main.61858dea.js",
+    "main.css": "/fitpeo/static/css/main.46c7ee47.css",
+    "main.js": "/fitpeo/static/js/main.71eadac3.js",
     "static/js/787.45743336.chunk.js": "/fitpeo/static/js/787.45743336.chunk.js",
     "static/media/hotel-bed.jpeg": "/fitpeo/static/media/hotel-bed.145a14abe40e1bf626e8.jpeg",
     "static/media/profile-pic.jpeg": "/fitpeo/static/media/profile-pic.1d4ba47c802e6e081d4b.jpeg",
@@ -10,12 +10,12 @@
     "static/media/hotel-bed2.jpeg": "/fitpeo/static/media/hotel-bed2.495344730adb41f4245b.jpeg",
     "static/media/logo.png": "/fitpeo/static/media/logo.a2be5240f26c19b66f08.png",
     "index.html": "/fitpeo/index.html",
-    "main.e0593d09.css.map": "/fitpeo/static/css/main.e0593d09.css.map",
-    "main.61858dea.js.map": "/fitpeo/static/js/main.61858dea.js.map",
+    "main.46c7ee47.css.map": "/fitpeo/static/css/main.46c7ee47.css.map",
+    "main.71eadac3.js.map": "/fitpeo/static/js/main.71eadac3.js.map",
     "787.45743336.chunk.js.map": "/fitpeo/static/js/787.45743336.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0593d09.css",
-    "static/js/main.61858dea.js"
+    "static/css/main.46c7ee47.css",
+    "static/js/main.71eadac3.js"
   ]
 }
